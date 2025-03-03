@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import "tailwindcss";
+
+html, body {
+  font-family: 'Outfit', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #F3E5D7;
+}
+
+.stone-900 {
+  color: #312E2C;
+}
+.stone-600 {
+  color: #5F564D;
+}
+.stone-150 {
+  color: #E3DDD7;
+}
+.rose-800 {
+  color: #7A284E;
+}
+.rose-50 {
+  color: #FFF7FB;
+}
+.brown-800 {
+  color: #854632;
+}
+
+.TextPreset1 {
+  font-family: 'Young Serif', serif;
+  font-size: 2.5em;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.TextPreset2 {
+  font-family: 'Young Serif', serif;
+  font-size: 1.75em;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+
+.TextPreset3 {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.25em;
+  line-height: 100%;
+  letter-spacing: 0px;
+  font-weight: 700;
+}
+
+.TextPreset4 {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1em;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: 400;
+}
+.TextPreset4-bold {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1em;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-weight: bold;
+}
+
